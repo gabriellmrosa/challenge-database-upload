@@ -40,6 +40,7 @@
     ]
   },
   "settings": {
+    "editor.formatOnSave": true,
     "import/resolver": {
       "typescript": {}
     }
